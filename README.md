@@ -3,7 +3,7 @@ tinymce-plugin-codehighlight
 
  Insert code with codehighlight for tinyMCE 4 
  
- ###Installation
+###Installation
  * Download skin
  * Unzip archive
  * Move folder bootstrap in tinyMCE (tiny_mce/plugins/)
@@ -25,7 +25,7 @@ Authors
 
 <pre>
 This file is part of tinyMCE.
-YouTube for tinyMCE
+CodeHighlight for tinyMCE
 Copyright (C) 2011 - 2013  Gerits Aurelien aurelien[at]magix-dev[dot]be - contact[at]aurelien-gerits[dot]be
 
 Redistributions of files must retain the above copyright notice.
